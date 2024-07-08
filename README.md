@@ -1,2 +1,10 @@
-# StringCalculator
-This is a repository created to work on an assessment 
+# String Calculator TDD
+
+This project implements a simple string calculator following Test-Driven Development (TDD) practices.
+
+## Running Tests
+
+To run the tests, use the following command:
+
+```bash
+mvn test
